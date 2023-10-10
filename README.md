@@ -1,7 +1,23 @@
-# This time I have learned to make websites that are dynamic but without using JavaScript.
+## Job Board
 
-I have created a simple application using a technology called **Live Wire** and this project is explained how to use Live Wire on simple example like polls.
-You can create, delete and vote in polls _without updating page_.
+#### Radievych V.
+#### 08-sep-2023
+#### version 1.0
 
-With help the technology I can be able to make dynamic website without JS or frameworks like Vue or React. 
 
+
+## About Project
+
+This is a website that is dynamic, but without using JavaScript. It's a simple application using a technology called LiveWire.
+You can create a different poll, option, and it will validate in real time using ajax technology.
+And you can vote in polls seeing how many votes the poll has.
+The major feature of this project is LiveWire.
+
+#### Features that were used for the project:
+
+- Blade, LiveWire components
+- Use LiveWire and only LiveWire controllers
+- Routing
+- Migrations
+- One-to-Many Eloquent Relations
+- Validation
