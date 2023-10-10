@@ -1,4 +1,4 @@
-## Livewire poll
+## LiveWire poll
 
 #### Radievych V.
 #### 08-sep-2023
@@ -16,7 +16,8 @@ The major feature of this project is LiveWire.
 #### Features that were used for the project:
 
 - Blade, LiveWire components
-- Use LiveWire and only LiveWire controllers
+- [Livewire](https://livewire.laravel.com)
+- Use only LiveWire controllers
 - Routing
 - Migrations
 - One-to-Many Eloquent Relations
